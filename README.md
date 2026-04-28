@@ -36,3 +36,12 @@ A SystemVerilog testbench is used to:
 ![Waveform](waveform.png)
 
 ## Simulation Output
+
+## Simulation Output
+
+State transitions observed:
+- RED → GREEN
+- GREEN → YELLOW
+- YELLOW → RED
+
+Traffic light sequence verified successfully.
