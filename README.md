@@ -37,8 +37,6 @@ A SystemVerilog testbench is used to:
 
 ## Simulation Output
 
-## Simulation Output
-
 State transitions observed:
 - RED → GREEN
 - GREEN → YELLOW
